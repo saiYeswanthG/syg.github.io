@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Terminal</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 23:30:42 +0530</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to learn physics ?</title>
+      <link>//localhost:1313/posts/how-to-learn-physics/</link>
+      <pubDate>Tue, 27 Dec 2022 23:30:42 +0530</pubDate>
+      
+      <guid>//localhost:1313/posts/how-to-learn-physics/</guid>
+      <description>depending on what your source of education is (or who your teacher is ), learning physics can be a rewarding experience as you understand the inner workings of world, or a path full of frustration and demotivating struggle to get the answers right (which most educators would gladly reduce the purpose of physics to). If you find the equations and formulas confusing, and often encounter ambiguity while trying to solve a physics problem, then this post is for you, hang on as we discuss how certain approaches/practices can actually harm the student’s ability to learn and there by significantly reducing their chances at being relevant ( like it is in India ).</description>
+      <content>&lt;script src=&#34;https://cdn.jsdelivr.net/npm/p5@1.5.0/lib/p5.js&#34;&gt;&lt;/script&gt;
+&lt;style&gt;
+  div {
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+&lt;/style&gt;
+&lt;p&gt;depending on what your source of education is (or who your teacher is ), learning physics can be a rewarding experience as you understand the inner workings of world, or a path full of frustration and demotivating struggle to get the answers right (which most educators would gladly reduce the purpose of physics to). If you find the equations and formulas confusing, and often encounter ambiguity while trying to solve a physics problem, then this post is for you, hang on as we discuss how certain approaches/practices can actually harm the student’s ability to learn and there by significantly reducing their chances at being relevant ( like it is in India ).&lt;/p&gt;
+&lt;h3 id=&#34;why-most-of-what-we-learn-is-wrong-&#34;&gt;Why most of what we learn is wrong ?&lt;/h3&gt;
+&lt;p&gt;This might startle you a little when I say , ” Most of what you learn is Wrong !! “, yes ! you heard me right, even some of the stuff you learn in science books is wrong. if you are wondering, “why is it wrong ?”, ” why do we learn something if it is wrong ? “, “why does it matter to understand this seemingly absurd question ?”, just hang on. the reason why most of what we learn is wrong is because there are things we can never know, and all our attempts to describe nature are mere approximations that describe things really well. we use scientific results not because they are right , but because they approximate reality really well and are “Useful”. which means we can not describe nature in absolute sense but can describe them using ideas and equations reasonably well and a collection of such equations and ideas describing a system is called a scientific model and here’s a fun fact about all scientific models.&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+  &lt;img src=&#34;//localhost:1313/440px-GeorgeEPBox-600x339.jpg&#34;/&gt;
+&lt;/p&gt;
+&lt;p&gt;which means there is always room for improvement, and the formulas and equations we encounter when we study aren’t like commandments that shouldn’t be questioned, but ideas that can be replaced with better ideas. so learning a theory from any scientist no matter how great, is only the beginning and not the end. with enough time and dedication you should be able to comprehend their perspective and if you find valid reason to disagree, you should ! but try not to get intimidated by their supposed greatness, greatness is subjective virtue and their greatness doesn’t hinder your potential to come up with creative ideas. so it’s always recommended to play around with their ideas, and setting your imagination free. the whole point of this section of post is to offer a perspective that makes scientific ideas more approachable and encouraging you to look at everything skeptically. because our minds engage better with things that intrigue us and we are skeptical about and that greatly helps in learning.&lt;/p&gt;
+&lt;h3 id=&#34;how-science-ends-up-in-your-books&#34;&gt;How science ends up in your books&lt;/h3&gt;
+&lt;p&gt;It all starts with an observation that looks interesting/important enough to catch attention. this is the stage when we measure what we can, collect data and try to see if we can find any patterns.&lt;/p&gt;
+&lt;p&gt;Take the case of pendulums for example. you displace them slightly and let them swing. as time passes the amplitude of oscillations decrease and when plotted they look something like this. click on the canvas to reset.&lt;/p&gt;
+&lt;div id=&#34;holder0&#34;&gt;&lt;/div&gt;
+&lt;script src=&#34;//localhost:1313/sketch2.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;even if we don’t formulate the physics and deduce exactly how the amplitudes decay over time, we can just fiddle around and try to fit a curve that could match the observed trend.&lt;/p&gt;
+&lt;p&gt;the following curve has been created using two functions the &lt;span style=&#34;color:rgb(0,255,0)&#34;&gt;exponential&lt;/span&gt; function that decays over time and a sine function ( reduce the damping to see the undamped sine curve ) that gives us the wave pattern. multiply them both and you get a curve that looks very similar to the ones above.&lt;/p&gt;
+&lt;div id=&#34;holder&#34;&gt; &lt;/div&gt;
+&lt;script src=&#34;//localhost:1313/sketch.js&#34;&gt;&lt;/script&gt;&lt;br&gt;
+&lt;p&gt;extra text&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
